@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <h1>Hi👋, I'm Nicolas Garcia</h1>
 <h2>About me</h2>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
 - 😄 I'm a a 3rd year programming student.
   
 - 🔭 I’m currently working on Java, Mysql, Javascript, PHP.
