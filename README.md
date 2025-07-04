@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 🌱 I am currently learning the sprint boot framework.
 
 - 👯 I'm looking to collaborate on projects as a back-end programmer.
+
+## 🛠️ My Skills
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
