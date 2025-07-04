@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1>Hi👋, I'm Nicolas Garcia</h1>
 <h2>About me</h2>
+
+- 😄 I'm a a 3rd year programming student.
+  
 - 🔭 I’m currently working on Java, Mysql, Javascript, PHP.
 
 - 🌱 I am currently learning the sprint boot framework.
