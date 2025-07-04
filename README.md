@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi👋, I'm Nicolas Garcia</h1>
+<h2>About me</h2>
+-🔭 I’m currently working on Java, Mysql, Javascript, PHP
+-🌱 I am currently learning the sprint boot framework.
+- 👯 I'm looking to collaborate on projects as a back-end programmer
